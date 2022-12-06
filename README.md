@@ -10,3 +10,4 @@ Parameter for PCB:
 - Thickness: 1,2mm
 - Minimum Copper Trace Width: 0.15mm
 
+![ELRS_Render](https://github.com/codemarv42/ExpressLRS/blob/main/ELRS%202.4GHz%20TX/Mini%20ELRS%202.4GHz%20TX%20REV1/Mini%20ELRS%202.4GHz%20TX%20REV1%20Real3.JPG)
